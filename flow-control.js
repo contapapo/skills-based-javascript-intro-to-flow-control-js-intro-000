@@ -3,7 +3,7 @@ if (age >= 13 && age <= 19) {
   return "You are a teenager!"
 }
 else {
-  break;
+  return "You are not a teenager";
 }
 }
 
